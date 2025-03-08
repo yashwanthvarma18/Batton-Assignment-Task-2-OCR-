@@ -4,7 +4,6 @@ config.json
 credentials.txt
 secrets.txt
 
-# Ignore generated files
 *.pyc
 *.o
 *.class
