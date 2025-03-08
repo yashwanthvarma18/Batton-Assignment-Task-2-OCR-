@@ -29,7 +29,7 @@ A powerful Python utility that extracts tabular data from images using PaddleOCR
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/table-ocr-extractor.git
+git clone https://github.com/yashwanthvarma18/Batton-Assignment-Task-2-OCR-.git
 cd path/to/BATTON
 
 ```
