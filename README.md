@@ -75,8 +75,6 @@ python table.py
 - `pip install openai`
 - `pip install python-dotenv`
 - `pip install pandas`
-
-### Optional Packages
 - `pip install xlsxwriter`   # Optional: for advanced Excel formatting
 - `pip install openpyxl`     # Optional: fallback for Excel saving if xlsxwriter isn't available
 
@@ -137,10 +135,5 @@ For a working demonstration and visual guide, please visit: [Table OCR Extractor
 - **Row Detection Problems**: Modify the `y_threshold` parameter to better match your table's layout
 - **API Errors**: Ensure your OpenAI API key is correct and has sufficient quota
 - **Excel Export Issues**: Install xlsxwriter for better formatting, or the script will fall back to openpyxl
-
-## Acknowledgments
-
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for the OCR technology
-- [OpenAI](https://openai.com/) for the GPT model used in refining table data
 
 

@@ -42,3 +42,7 @@ Thumbs.db
 # Ignore other unnecessary files
 README.md~
 *.tmp
+# Ignore PaddleOCR models
+en_PP-OCRv3_det/
+en_PP-OCRv3_rec/
+en_ppstructure_mobile_v2.0_SLANet/
