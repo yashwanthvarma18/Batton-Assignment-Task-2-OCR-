@@ -135,5 +135,3 @@ For a working demonstration and visual guide, please visit: [Table OCR Extractor
 - **Row Detection Problems**: Modify the `y_threshold` parameter to better match your table's layout
 - **API Errors**: Ensure your OpenAI API key is correct and has sufficient quota
 - **Excel Export Issues**: Install xlsxwriter for better formatting, or the script will fall back to openpyxl
-
-
