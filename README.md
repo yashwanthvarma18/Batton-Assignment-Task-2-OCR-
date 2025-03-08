@@ -138,9 +138,6 @@ For a working demonstration and visual guide, please visit: [Table OCR Extractor
 - **API Errors**: Ensure your OpenAI API key is correct and has sufficient quota
 - **Excel Export Issues**: Install xlsxwriter for better formatting, or the script will fall back to openpyxl
 
-For Testing Purpose Use this API Key: 
-OPENAI_API_KEY=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
-
 ## Acknowledgments
 
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for the OCR technology

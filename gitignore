@@ -1,0 +1,44 @@
+# Ignore sensitive information
+.env
+config.json
+credentials.txt
+secrets.txt
+
+# Ignore generated files
+*.pyc
+*.o
+*.class
+*.jar
+
+# Ignore user-specific files
+.DS_Store
+Thumbs.db
+.log
+.swp
+
+# Ignore build artifacts and output
+/dist
+/build
+/target
+/bin
+
+# Ignore third-party libraries and dependencies
+/node_modules
+/vendor
+/.venv
+/.gradle
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore Terraform files (if applicable)
+/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
+# Ignore other unnecessary files
+README.md~
+*.tmp
